@@ -1,7 +1,7 @@
-# Computer-assembly
+# Assembling a Computer
 
 # Description
- - This project consist of me simply demonstrating how to create a new user account using the Active Directory utility in 6 easy steps. The Active Directory Administrative Center allows you to manage your Active Directory installation, by configuring users, groups, computers, and much more.
+ - This project consist of me simply demonstrating how to assemble a computer. Showcasing where the various hardware would be installed on a motherboard and on the inside of a desktop computer case.
 
 # Walkthrough
 <p align="center">
@@ -53,4 +53,3 @@ Arranging the CPU Components for Install: First the CPU, then Thermal Paste, the
 <img src="https://i.imgur.com/jI4Q5vS.png" height="60%" width="60%"
   <br/>
 <br />
-<br/>
