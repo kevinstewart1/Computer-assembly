@@ -14,30 +14,43 @@
   <br/>
   Installing the Power Supply Unit (PSU):
   <br /> 
-  <img src="https://i.imgur.com/Dwnh9fk.png" height="70%" width="70%"
+  <img src="https://i.imgur.com/Dwnh9fk.png" height="60%" width="60%"
 <br />
 <br />
 <br/>
 Installing the RAM:
 <br/>
-  <img src="https://i.imgur.com/AjGROCW.png" height="70%" width="70%"
+  <img src="https://i.imgur.com/AjGROCW.png" height="60%" width="60%"
   <br/>
   <br />
 <br/>
 Installing the Hard Disk Drive (HDD):
 <br/>
-  <img src="https://i.imgur.com/nu16rwI.png" height="70%" width="70%"
+  <img src="https://i.imgur.com/nu16rwI.png" height="60%" width="60%"
   <br/>
   <br />
 <br/>
 Installing the Case Fan:
 <br/>
-  <img src="https://i.imgur.com/6Qp7Ls8.png" height="70%" width="70%"
+  <img src="https://i.imgur.com/6Qp7Ls8.png" height="60%" width="60%"
   <br/>
   <br />
 <br/>
-Step 6:
+Installing the SATA Cable:
 <br/>
-Enter a password and confirm the password into the Reset Password window. I will make sure that the "User must change password at next logon" option is already checked, this will ensure that the user will change their password when they log in. So now I'll click on the OK button to set the password. The goal of this is that after they've logged in once, I will not know their new password. <br/>
-<img src="https://i.imgur.com/QngjwQ8.png" height="100%" width="100%"
+<img src="https://i.imgur.com/4VfDH4H.png" height="60%" width="60%"
   <br/>
+<br />
+<br/>
+Installing the CPU:
+<br/>
+<img src="https://i.imgur.com/bmUU4us.png" height="60%" width="60%"
+  <br/>
+<br />
+<br/>
+Arranging the CPU Components for Install: First the CPU, then Thermal Paste, then Heat sink, and lastly CPU Fan.
+ <br/>
+<img src="https://i.imgur.com/jI4Q5vS.png" height="60%" width="60%"
+  <br/>
+<br />
+<br/>
